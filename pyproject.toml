@@ -3,7 +3,8 @@ name = "magx"
 version = "0.1.0"
 description = "Model-agnostic explainability toolkit with global & local methods"
 readme = "README.md"
-license = { file = "LICENSE" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
   { name="Mohammed Muqsith Ali Khan", email="muqsithali8@gmail.com" }
 ]
