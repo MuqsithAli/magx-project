@@ -169,7 +169,12 @@ If you use MagX in academic work, please cite the repository ❤️
 ## 📦 Installation
 
 ```bash
-pip install magx
-Or
 install latest from GitHub: 
 pip install git+https://github.com/MuqsithAli/magx.git
+```
+
+---
+
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/MuqsithAli/magx?label=release)
+
+---
